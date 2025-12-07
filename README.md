@@ -385,8 +385,7 @@ Once you've mastered the traffic light simulation, you're ready for:
 
 <br>
 
-# ⭐ DAY002: Blink LEDs in Sequence
-[HERE](https://github.com/mytechnotalent/ERP2-DAY002)
+# ⭐ DAY002: Blink LEDs in Sequence [HERE](https://github.com/mytechnotalent/ERP2-DAY002)
 
 <br>
 

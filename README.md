@@ -348,14 +348,6 @@ Implement a flashing yellow night mode:
 
 <br>
 
-# 📖 Next Steps
-Once you've mastered the traffic light simulation, you're ready for:
-- **DAY004**: LED brightness control with PWM
-- **DAY005**: Fade LED in and out smoothly
-- **DAY006**: LED chaser/Knight Rider effect
-
-<br>
-
 # 🔗 Resources
 
 ## Official Documentation

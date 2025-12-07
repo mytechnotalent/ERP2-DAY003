@@ -5,7 +5,7 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# ⭐ DAY003: Traffic Light Simulation
+# ⭐ DAY003: Traffic Light Simu
 
 <br>
 

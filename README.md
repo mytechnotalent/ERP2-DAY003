@@ -204,12 +204,18 @@ This will:
 2. Flash it to the Pico 2 using probe-rs
 3. Start the traffic light simulation
 
-## Expected Output
+### Expected Output
 The traffic light follows a realistic sequence:
 - **RED** stays on for 3 seconds (Stop)
 - **GREEN** stays on for 3 seconds (Go)
 - **YELLOW** stays on for 1 second (Caution)
 - Cycle repeats continuously
+
+## Step 4: Test
+```bash
+make test
+```
+This will run all of the unittests to ensure our project is functioning correctly and that recent changes haven't introduced regressions.
 
 <br>
 

@@ -379,6 +379,7 @@ Implement a flashing yellow night mode:
 <br>
 
 # ⭐ DAY002: Blink LEDs in Sequence [HERE](https://github.com/mytechnotalent/ERP2-DAY002)
+# ⭐ DAY004: PWM Brightness Control [HERE](https://github.com/mytechnotalent/ERP2-DAY004)
 
 <br>
 
